@@ -38,7 +38,7 @@ developer:
   name: "VATS"
   handle: "@vats1126"
   location: "Karnataka, India 🇮🇳"
-  team_alias: "Bug Busters (HM26-1E71) 🐛🔨"
+  team_alias: "Bug Busters 🐛🔨"
 
 focus_areas:
   - "AI + EdTech (Adaptive Learning & Real-Time Intervention)"
